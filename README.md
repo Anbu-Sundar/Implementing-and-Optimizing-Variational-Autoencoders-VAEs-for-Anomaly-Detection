@@ -8,7 +8,7 @@ distribution of normal network traffic data. Anomalies are detected based on
 reconstruction error, assuming anomalous samples reconstruct poorly compared to
 normal samples.
 
-The implementation is done from scratch using the PyTorch framework and evaluated
+The implementation is done from scratch using the framework and evaluated
 using standard anomaly detection metrics such as AUC-ROC and Precision-Recall AUC.
 
 
