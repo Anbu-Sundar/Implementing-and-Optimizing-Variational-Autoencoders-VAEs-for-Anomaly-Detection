@@ -65,7 +65,7 @@ A Precision-Recall curve is plotted to visualize anomaly detection performance.
 6. Software Requirements
 ------------------------
 - Python 3.8+
-- PyTorch
+- pytorch
 - NumPy
 - Pandas
 - Scikit-learn
